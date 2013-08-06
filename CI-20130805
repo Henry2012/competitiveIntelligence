@@ -1,0 +1,76 @@
+[SemLab](http://www.semlab.nl/)
+***
+
+
+## 1 Brief Intro
+  
+	SemLab was founded in Sept. 2000,  at exactly 136 meters from the Rijksmuseum, Amsterdam, The Netherlands.
+
+They do ? 
+	
+	> SEMLAB provides the most innovative solution in Language Technology in combination with high yield critical business processes, including financial services and risk management.
+
+
+
+
+***
+
+## 2 Products
+
+### [AutoSentiment](http://autosentiment.semlab.nl/public/) --
+
+
+Usecase : Ranking Luxury cars brands based on sentiment
+
+> Continuously monitor the top ten most popular online automotive blog websites in The Netherlands and capture the sentiments expressed in the edited articles as well as in the readers’ comments.
+
+
+##### Results
+
+> The system is currently online and has processed about 145.000 text items resulting in 141.396 useful events. Excluding **all car brands that yield 50 events or less**, results in data on the 37 most popular car brands currently available in The Netherlands.
+
+![ranking](http://ww1.sinaimg.cn/large/5810d07bjw1e7bkcyvpbjj21640he0x0.jpg)
+***
+
+
+### [VIEWERPRO]
+
+Creates a computer readable news stream from any textual input source.
+
+Tech: 
+
+> Natural Language Processing and Artificial Intelligence techniques 
+
+More info:
+	
+	* youtube [http://www.youtube.com/watch?v=AkRGxETeemA]
+
+### [Reputation Brand Monitoring and Marketing]
+
+Usecase: Analyze millions of user forums, tumblr blogs, Twitter, Facebook and Google+ feeds, in order to measure in real-time the sentiment of  your product and service opinions.
+
+![picture shot](http://d1zjcuqflbd5k.cloudfront.net/files/acc_74196/Djxh?response-content-disposition=inline;%20filename=Djxh.jpg&Expires=1375692354&Signature=V4rfcp4D5UW50unRlqRyVS7vSnIJJHcukBBJGVfstaI0ThwxDqI9XyZM7W9bVmlEueUFZx5ZfXqVcgzwXw8usiaGyfr-HlVo368GDcFY2KGKka1DyV8hkQ4djnRxr2W8TiMZvHrwojUEPduKHTe003mDTMfMlyiWEk-aYc8cE6k_&Key-Pair-Id=APKAJTEIOJM3LSMN33SA)
+
+	> If you want to stay in control of the opinion: use our proprietary semantic web software. 
+
+More:
+
+[https://www.letsmt.eu/Start.aspx]
+
+
+## 3 News about them
+
+
+
+### Nicolas Pratt, Machine Readable News-FOREX, April 2013:
+
+As Machine Readable News gains further traction in FX, SEMLAB is extending its offerings.
+
+
+The open platform from SEMLAB allows algorithmic traders from sell- and buy side to distinguish themselves when detecting news based information. Its natural language processing software combined with customizable event driven signals has become popular among the FX community, following the Equity Trading community.
+    
+            ---- According to Deutsche Boerse’s Market News International, Clint Rhea, COO,
+
+
+
+
