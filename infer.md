@@ -10,6 +10,7 @@
 	* Campaign analysis
 	* Lead qualification
 	* Sales effectiveness
+	
 [Infer](https://www.infer.com/)
 ===========
 * General intro
