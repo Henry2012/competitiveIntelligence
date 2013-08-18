@@ -1,0 +1,44 @@
+Graph Search in Social Network Titans
+===
+#Facebook Graph Search
+* introduced in March 2013, and fully launched in US English on Aug 7
+* developed under __former Google employees__ Lars Rasmussen and Tom Stocky
+* capable of answering questions as follows:
+	* friends who like Star Wars and Harry Potter
+	* photos of my friends taken at National Park
+	* People who live in my city from my hometown
+	* Friends of friends who like Paula Dean
+* [Introducing Graph Search Beta](http://newsroom.fb.com/News/562/Introducing-Graph-Search-Beta)
+* Some screenshots
+
+Knowledge Graph Development
+===
+* Tim Berners-Lee first proposed the concept of "semantic web" in 2001
+* 2006: [SemSearch: A Search Engine for the semantic web](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.98.3235&rep=rep1&type=pdf)
+* 2007: [Entity Search Engine: Towards Agile Best-Effort Information intergration over the web](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.98.3235&rep=rep1&type=pdf)
+* 2012: Google Knowledge Graph
+* Microsoft Satori
+* baidu entity search （实体搜索）
+* sogou "知立方"
+	* 三元组 + 语义和句法分析
+	* 可以回答“梁启超的儿子的太太的情人的父亲是谁”
+* __面临的挑战__
+	* 如何实现知识库的自动扩展，包括新实体的自动发现、实体关系的自动抽取、实体语义的自动消歧等
+	* 如何利用知识库实现真正的智能搜索，其核心研究问题是如何结合知识库进行浅层推理理解用户查询场景、分析用户查询语义，以及对搜索结果进行智能整理和展示
+	* 如何实现知识库的跨语言支持，目前谷歌的知识库仅支持英文版，对于其它语言的“知识图谱”远未完善，而国内搜狗的“知立方”仅局限于中文版
+	* 如何将用户个性化偏好和“知识图谱”有机结合，做到个性化“知识图谱”搜索也是未来一个值得研究的话题
+	
+Reference
+===
+* 公开的“知识图谱”库
+	* DBPedia
+	* [Wikilinks](http://wikilinks.net/home/): 40M排除歧义的关系
+	* Freebase: 60M实体，1B关系
+	* Data.gov: 6.4B关系
+* 与“知识图谱”相关的知名学术会议
+	* International World Wide Web Conference
+	* International Semantic Web Conference
+	* SIGIR
+	* ACL
+	* SIGKDD
+	* SIGMOD
