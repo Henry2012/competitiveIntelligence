@@ -1,5 +1,4 @@
-[Market Automation](http://en.wikipedia.org/wiki/Marketing_automation "Wikipedia")
-=====================
+# [Market Automation](http://en.wikipedia.org/wiki/Marketing_automation "Wikipedia")
 * Streamline sales and marketing organizations by replacing high-touch, repetitive manual processes with automated solutions
 * Cover almost all phases of the marketing process under full development as follows:
 	* Demand generation
@@ -10,8 +9,8 @@
 	* Campaign analysis
 	* Lead qualification
 	* Sales effectiveness
-[Infer](https://www.infer.com/)
-===========
+	
+# [Infer](https://www.infer.com/)
 * General intro
 	* spent 3 years of development before launching
 	* aimed to help companies win more customers
@@ -49,40 +48,36 @@
 	* Infer Overview Demo
 	http://blog.infer.com/2013/07/Infer-overview-demo.html
 
-Marketing Campaign Response rate
-===================
-	* email marketing campaign
-		* open/click-through
+# Marketing Campaign Response rate
+* email marketing campaign
+	* open/click-through
 
-predictive analytics
-===================
-	* available for business users without the assistance of a statistical expert
-	* integrated into the organization's overall forecasting process
-	* analytical engines
+# predictive analytics
+* available for business users without the assistance of a statistical expert
+* integrated into the organization's overall forecasting process
+* analytical engines
 
-Companies
-=================
-	* [SunGard](http://www.sungard.com/)
-		* AvantGard Predictive Metrics 
-			* [Methodology]statistical-based risk models
-	* [Kxen](http://www.kxen.com/) -- Predictive Power. Infinite Insight
-	* [Infer](https://www.infer.com/)
-		* predictive customer scoring models 
-		* signals, Eloqua and Marketo
+# Companies
+* [SunGard](http://www.sungard.com/)
+	* AvantGard Predictive Metrics 
+		* [Methodology]statistical-based risk models
+* [Kxen](http://www.kxen.com/) -- Predictive Power. Infinite Insight
+* [Infer](https://www.infer.com/)
+	* predictive customer scoring models 
+	* signals, Eloqua and Marketo
 	
-Semantic layer
-===============
-	* [Predictive Analytics - Driving Sales with Customer Insights](http://www.imperiallogistics.co.za/documents/Predictive-Analytics-Driving-Sales-with-Customer-Insights.pdf)
-		* facilitate developers and analysts to work interactively with business users to prototype reports
-		* act as an intermediary between business fields and database fields from end users
-	* Business Objects Universe
-	* can create pre-defined filters corresponding to common restrictions that users may wish to include within queries
-Extended Reading
-============
-	* [40 Must-See Charts for Modern Marketers](http://www.eloqua.com/content/dam/eloqua/images/Resources/marketing-insights/OracleEloqua_40charts.pdf "pdf")
-	* [Predictive Analytics - Driving Sales with Customer Insights](http://www.imperiallogistics.co.za/documents/Predictive-Analytics-Driving-Sales-with-Customer-Insights.pdf)
-	* [What's a semantic layer and why would i want one?](http://www.ipl.com/papers/What's%20a%20semantic%20layer%20and%20why%20would%20I%20want%20one.pdf)
-Reference
-=================
-	* company size <-- annual revenue
-	* headcount 
+# Semantic layer
+* [Predictive Analytics - Driving Sales with Customer Insights](http://www.imperiallogistics.co.za/documents/Predictive-Analytics-Driving-Sales-with-Customer-Insights.pdf)
+	* facilitate developers and analysts to work interactively with business users to prototype reports
+	* act as an intermediary between business fields and database fields from end users
+* Business Objects Universe
+* can create pre-defined filters corresponding to common restrictions that users may wish to include within queries
+
+# Extended Reading
+* [40 Must-See Charts for Modern Marketers](http://www.eloqua.com/content/dam/eloqua/images/Resources/marketing-insights/OracleEloqua_40charts.pdf "pdf")
+* [Predictive Analytics - Driving Sales with Customer Insights](http://www.imperiallogistics.co.za/documents/Predictive-Analytics-Driving-Sales-with-Customer-Insights.pdf)
+* [What's a semantic layer and why would i want one?](http://www.ipl.com/papers/What's%20a%20semantic%20layer%20and%20why%20would%20I%20want%20one.pdf)
+
+# Reference
+* company size <-- annual revenue
+* headcount 
