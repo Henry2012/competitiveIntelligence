@@ -1,3 +1,3 @@
-competitive_intelligence
+competitive intelligence analytics
 ========================
 Test
